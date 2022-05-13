@@ -1,6 +1,6 @@
 ## ✨ Hi there!  I'm Christy. Happy Coding! ✨
 
-- 🔭 I LOVE learning! - Sophophilic: a person who loves to gather knowledge with a higher emphasis on wisdom.
+- 🔭 I LOVE learning and coding!!! - Sophophilic: a person who loves to gather knowledge with a higher emphasis on wisdom.
 - ❤️ How to reach me: [CSeddon01](https://www.linkedin.com/in/christine-seddon-2a97a2158/)
 - 😄 Pronouns: she/her
 - 
