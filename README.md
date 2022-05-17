@@ -9,5 +9,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSeddon01&layout=compact)](https://github.com/CSeddon01/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSeddon01&hide=contribs)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/pin](https://github-readme-stats.vercel.app/api/pin/)/top-langs/?username=CSeddon01&layout=compact)](https://github.com/CSeddon01/github-readme-stats)
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api/pin/](https://github-readme-stats.vercel.app/api/pin/)?username=CSeddon01&hide=contribs)
